@@ -61,6 +61,7 @@ npm start
 2️⃣ צד לקוח
 npm install
 npm start
-פותחה על ידי
+
+## 👩‍💻Developed by
 
 Yuval
